@@ -29,4 +29,4 @@
 <br />
 <br />
 
-![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanghanidev&theme=dark&show_icons=true&theme=radical)
+![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanghanidev&theme=react&show_icons=true)
