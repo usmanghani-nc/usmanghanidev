@@ -53,7 +53,7 @@
 
 ## Stats and counters
 
-![](https://komarev.com/ghpvc/?username=derrickmehaffy)
+![](https://komarev.com/ghpvc/?username=usmanghanidev)
 
 ![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanghanidev&theme=react&show_icons=true)
 
