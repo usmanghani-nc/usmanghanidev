@@ -4,14 +4,7 @@
 
 ### Connect with me:
 
-
-
-<p align="left">
-  [![Twitter Follow](https://img.shields.io/twitter/follow/usmaghanidev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usmaghanidev)
-   <a href="https://www.linkedin.com/in/muhammad-usman-ghani-92a97b195/">
-      <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
-    </a> 
-</p>
+ [![Twitter Follow](https://img.shields.io/twitter/follow/usmaghanidev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usmaghanidev)
 
 
 ### Languages and Tools:
