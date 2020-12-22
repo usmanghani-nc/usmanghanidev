@@ -1,12 +1,18 @@
 ### Hi there, I'm Usman Ghani👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/usmaghanidev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usmaghanidev)
+## I'm a Front-end Developer for [Brandoverflow](https://www.brandoverflow.com/)
 
-## I'm a Developer
+### Connect with me:
 
-- ⚡ I’m currently learning everything 🤣
-- 🌱 Fun fact: I love to cook
-<br />
+
+
+<p align="left">
+  [![Twitter Follow](https://img.shields.io/twitter/follow/usmaghanidev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usmaghanidev)
+   <a href="https://www.linkedin.com/in/muhammad-usman-ghani-92a97b195/">
+      <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
+    </a> 
+</p>
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -25,5 +31,59 @@
 <br />
 <br />
 <br />
+
+
+
+## Tools and stuff I use
+
+### Tools & Stuff
+<p align="left">
+  <a href="#">
+    <img src="images/bash.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="images/chrome.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="images/git.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="images/visualstudio_code.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+
+### Services 
+<p align="left">
+  <a href="#">
+    <img src="images/github.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="images/npm.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+
+### Frameworks
+<p align="left">
+  <a href="#">
+    <img src="images/nodejs.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+</p>
+
+### Languages
+<p align="left">
+  <a href="#">
+    <img src="images/js.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+</p>
+
+## Stats and counters
+
+![](https://komarev.com/ghpvc/?username=derrickmehaffy)
+
+[![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=derrickmehaffy&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickmehaffy&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanghanidev&theme=react&show_icons=true)
