@@ -11,9 +11,6 @@
 ### Tools & Stuff
 <p align="left">
   <a href="#">
-    <img src="images/bash.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
     <img src="images/chrome.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
