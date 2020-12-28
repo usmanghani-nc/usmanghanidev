@@ -17,7 +17,7 @@
     <img src="images/git.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="images/visualstudio_code.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/Visual Studio.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 ### Frameworks
 <p align="left">
    <a href="#">
-    <img src="images/react.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/react.png" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="#">
     <img src="images/rn.svg" alt="" style="vertical-align:top margin:6px 4px">
