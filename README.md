@@ -36,6 +36,13 @@
   </a>
 </p>
 
+### Languages
+<p align="left">
+  <a href="#">
+    <img src="images/js.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+</p>
+
 ### Frontend
 <p align="left">
    <a href="#">
@@ -53,9 +60,15 @@
   <a href="#">
     <img src="images/next.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="#">
-    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
+</p>
+
+<p align="left">
+   <a href="#">
+     <img src="images/bs.svg" alt="" style="vertical-align:top margin:6px 4px">
+   </a>    
+   <a href="#">
+     <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
+   </a> 
 </p>
 
 ### Mobile Dev
@@ -76,13 +89,6 @@
    <a href="#">
     <img src="images/fb.svg" alt="" style="vertical-align:top margin:6px 4px">
    </a> 
-</p>
-
-### Languages
-<p align="left">
-  <a href="#">
-    <img src="images/js.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
 </p>
 
 ## Stats and counters
