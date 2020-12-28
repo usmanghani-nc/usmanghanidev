@@ -48,16 +48,13 @@
       <img src="images/sass.svg" alt="" style="vertical-align:top margin:6px 4px">
    </a> 
    <a href="#">
-    <img src="images/react.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="images/rn.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/react.png" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="#">
     <img src="images/next.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
 </p>
 
