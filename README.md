@@ -11,10 +11,10 @@
 ### Tools & Stuff
 <p align="left">
   <a href="#">
-    <img src="images/chrome.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/Chrome.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="images/git.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/Git.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
     <img src="images/Visual Studio.svg" alt="" style="vertical-align:top margin:6px 4px">
@@ -24,7 +24,7 @@
 ### Services 
 <p align="left">
   <a href="#">
-    <img src="images/github.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/Github.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
     <img src="images/npm.svg" alt="" style="vertical-align:top margin:6px 4px">
