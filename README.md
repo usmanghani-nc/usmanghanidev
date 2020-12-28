@@ -41,19 +41,22 @@
 ### DB
 <p align="left">
   <a href="#">
-    <img src="images/mongodb.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/monogdb.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
 </p>
 
 ### Frameworks
 <p align="left">
-  <a href="#">
-    <img src="images/node.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
    <a href="#">
-    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/react.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
-    <a href="#">
+  <a href="#">
+    <img src="images/rnjs.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="images/rn.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
     <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
 </p>
