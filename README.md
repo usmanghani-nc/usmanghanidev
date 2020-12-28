@@ -39,16 +39,16 @@
 ### Frontend
 <p align="left">
    <a href="#">
-     <img src="images/html.png" alt="" style="vertical-align:top margin:6px 4px">
+     <img src="images/html.svg" alt="" style="vertical-align:top margin:6px 4px">
    </a>    
    <a href="#">
-      <img src="images/css.png" alt="" style="vertical-align:top margin:6px 4px">
+      <img src="images/css.svg" alt="" style="vertical-align:top margin:6px 4px">
    </a>  
    <a href="#">
-      <img src="images/scss.png" alt="" style="vertical-align:top margin:6px 4px">
+      <img src="images/sass.svg" alt="" style="vertical-align:top margin:6px 4px">
    </a> 
    <a href="#">
-    <img src="images/react.png" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/react.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="#">
     <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
