@@ -29,6 +29,32 @@
   <a href="#">
     <img src="images/npm.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="#">
+    <img src="images/yarn.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+
+### Frontend
+<p align="left">
+   <a href="#">
+    <img src="images/react.png" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="images/rn.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a> 
+</p>
+
+### Mobile Dev
+<p align="left">
+  <a href="#">
+    <img src="images/rn.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
 </p>
 
 ### Backend
@@ -39,19 +65,9 @@
    <a href="#">
     <img src="images/monogdb.svg" alt="" style="vertical-align:top margin:6px 4px">
    </a> 
-</p>
-
-### Frameworks
-<p align="left">
    <a href="#">
-    <img src="images/react.png" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="images/rn.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="images/redux.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a> 
+    <img src="images/fb.svg" alt="" style="vertical-align:top margin:6px 4px">
+   </a> 
 </p>
 
 ### Languages
