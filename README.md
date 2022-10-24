@@ -1,6 +1,6 @@
-### Hi there, I'm Usman Ghani👋
+### Hi there, I'm Muhammad Usman Ghani👋
 
-## I'm a Front-end Developer for [Massive Ventures](https://mvssive.com/)
+## I'm a Software Engineer for [Speridian Technologies](https://www.speridian.com/)
 
 ### Connect with me:
 
