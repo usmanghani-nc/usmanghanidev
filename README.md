@@ -1,12 +1,9 @@
 ### Hi there, I'm Muhammad Usman Ghani👋
 
-## I'm a Software Engineer for [Speridian Technologies](https://www.speridian.com/)
+## I'm a Software Engineer for [Nymcard](https://nymcard.com/)
 
 ### Connect with me:
-
- [![Twitter Follow](https://img.shields.io/twitter/follow/usmanghanidev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/usmanghanidev)
- 
-  <a href="https://www.usmanghanidev.com/">
+  <a href="https://my-portfolio-peach-seven.vercel.app/">
     Portfolio
   </a>
   
