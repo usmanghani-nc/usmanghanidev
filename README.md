@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Usman Ghani 👋  
 
-🚀 **Senior Software Engineer | Fullstack Developer | Cloud Enthusiast**  
+🚀 **Senior Software Engineer | Fullstack Developer**  
 📍 Karachi, Pakistan  
 📧 [usmanghanidev@gmail.com](mailto:usmanghanidev@gmail.com)  
 🌐 [Portfolio](https://my-portfolio-peach-seven.vercel.app/) | [GitHub](https://github.com/usmanghanidev) | [LinkedIn](https://linkedin.com/in/usmanghanidev)  
@@ -24,56 +24,16 @@ I enjoy solving complex problems, designing efficient architectures, and deliver
 
 ---
 
-## 💼 Experience
+## 🤖 AI & Innovation
+I actively integrate **AI-powered tools** into my daily workflow to maximize productivity and code quality:  
+- 💬 **Prompting & Research:** ChatGPT, Claude, DeepSeek  
+- 💻 **AI-driven Coding:** [Cursor AI](https://cursor.sh/) IDE for intelligent code completion and debugging  
+- 🔎 **Exploration Areas:**  
+  - Agentic AI (autonomous agents & orchestration)  
+  - RAG (Retrieval-Augmented Generation) systems  
+  - Generative AI for content, automation, and developer productivity  
 
-### **Senior Software Engineer** – [NymCard](https://nymcard.com/)  
-*June 2024 – Present*  
-- Built **Django backend systems** for BNPL workflows (Paylater, Spendwisor, Saudi National Bank).  
-- Developed **React.js and React Native checkout interfaces** for installment-based payments.  
-- Designed and implemented a **Magento 2 plugin** for BNPL services in e-commerce platforms.  
-- Created dashboards to monitor transaction volumes, repayment behavior, and merchant performance.  
-
-### **Software Engineer** – [Speridian Technologies](https://www.speridian.com/)  
-*Aug 2022 – Jun 2024*  
-- Built and deployed **MEAN/MERN applications**.  
-- Developed RESTful APIs and GraphQL endpoints.  
-- Designed serverless apps using **AWS Lambda, API Gateway, DynamoDB**.  
-
-### **Front-end Developer** – [Massive Ventures](https://mvssive.com/)  
-*Oct 2020 – May 2022*  
-- Developed **SPAs with React.js, Context API, and Node.js backend integration**.  
-- Delivered optimized B2B and SaaS frontend solutions.  
-
-### **Front-end Developer** – Inapp Solutions  
-*Feb 2020 – Oct 2020*  
-
-### **Front-end Developer** – [Luitech Pakistan (PVT) Ltd.](http://www.luitechsys.com/)  
-*Aug 2019 – Feb 2020*  
-
----
-
-## 🌟 Projects
-
-- **BNPL Payment Gateway Integration** – *(React.js, React Native, Django, PostgreSQL)*  
-  Built a BNPL service allowing users to split payments into installments and merchants to track transactions.  
-
-- **ESNE** – *(Next.js, Node.js, MySQL, AWS SDK)*  
-  Priest management system connecting U.S. and Mexican churches with journals, calendars, and communication tools.  
-
-- **CaseX Application** – *(Angular 14, Kendo UI)*  
-  Case management software for housing, education, financial aid, and welfare sectors.  
-
-- **Multifamily Kwikset** – *(AWS Serverless, Node.js, GraphQL)*  
-  Multi-vendor project with cloud-based user management portal.  
-
-- **Topicmojo** – *(Next.js, Node.js, MongoDB, TailwindCSS)*  
-  Tool to analyze search engines and discover trending queries and questions around keywords.  
-
----
-
-## 🎓 Education
-- **Diploma in Software Engineering (2019 – 2021)** – Aptech Certified Computer Professional  
-- **H.S.C. (2016 – 2018)** – Pre-Engineering, Pakistan Shipowners  
+I’m passionate about **harnessing AI in software engineering** to go beyond traditional coding and unlock new development paradigms.  
 
 ---
 
