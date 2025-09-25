@@ -1,6 +1,7 @@
 # Hi, I'm Muhammad Usman Ghani 👋  
 
 🚀 **Senior Software Engineer | Fullstack Developer**  
+
 📍 Karachi, Pakistan  
 📧 [usmanghanidev@gmail.com](mailto:usmanghanidev@gmail.com)  
 🌐 [Portfolio](https://my-portfolio-peach-seven.vercel.app/) | [GitHub](https://github.com/usmanghanidev) | [LinkedIn](https://linkedin.com/in/usmanghanidev)  
@@ -18,7 +19,7 @@ I enjoy solving complex problems, designing efficient architectures, and deliver
 - **Frontend:** React.js, Next.js, Angular 13+, React Native, TailwindCSS, Styled Components, SCSS/SASS  
 - **Backend:** Node.js, Express.js, Django REST Framework, GraphQL (Apollo)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Cloud & DevOps:** AWS Lambda, API Gateway, DynamoDB, CloudFormation, CDK, Serverless Architecture  
+- **Cloud:** AWS Lambda, API Gateway, DynamoDB, CloudFormation, CDK, Serverless Architecture  
 - **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3  
 - **Others:** Git, Webpack, Babel, Google Chrome Extensions  
 
