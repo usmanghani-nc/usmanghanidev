@@ -49,7 +49,7 @@ I enjoy solving complex problems, designing efficient architectures, and deliver
 
 ### **Cloud**
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/aws-svg-icons@3.0.0-2021-07-30/aws/compute/amazon-ec2.svg" width="40" height="40"/>
+  <img src="./images/aws-color.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
