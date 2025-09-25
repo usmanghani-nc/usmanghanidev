@@ -15,24 +15,56 @@ I enjoy solving complex problems, designing efficient architectures, and deliver
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, Angular 13+, React Native, TailwindCSS, Styled Components, SCSS/SASS  
-- **Backend:** Node.js, Express.js, Django REST Framework, GraphQL (Apollo)  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Cloud:** AWS Lambda, API Gateway, DynamoDB, CloudFormation, CDK, Serverless Architecture  
-- **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3  
-- **Others:** Git, Webpack, Babel, Google Chrome Extensions  
+## 🛠️ Tech Stack  
+
+### **Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="40" height="40" alt="Tailwind CSS"/>
+</p>
+
+### **Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" width="40" height="40" alt="GraphQL"/>
+</p>
+
+### **Databases**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+### **Cloud**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ## 🤖 AI & Innovation
 I actively integrate **AI-powered tools** into my daily workflow to maximize productivity and code quality:  
-- 💬 **Prompting & Research:** ChatGPT, Claude, DeepSeek  
-- 💻 **AI-driven Coding:** [Cursor AI](https://cursor.sh/) IDE for intelligent code completion and debugging  
-- 🔎 **Exploration Areas:**  
-  - Agentic AI (autonomous agents & orchestration)  
-  - RAG (Retrieval-Augmented Generation) systems  
-  - Generative AI for content, automation, and developer productivity  
+- 💬 **Prompting & Research:** ChatGPT ![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-412991?logo=openai&logoColor=white), Claude ![Claude](https://img.shields.io/badge/AI-Claude-0A84FF), DeepSeek ![DeepSeek](https://img.shields.io/badge/AI-DeepSeek-orange)  
+- 💻 **AI-driven Coding:** Cursor AI ![Cursor AI](https://img.shields.io/badge/IDE-Cursor%20AI-blue) for intelligent code completion and debugging  
+- 🔎 **🔥 Currently Exploring Areas:**  
+  - Agentic AI (autonomous agents & orchestration) ![Agentic AI](https://img.shields.io/badge/Research-Agentic%20AI-green) 
+  - RAG (Retrieval-Augmented Generation) systems ![RAG](https://img.shields.io/badge/Research-RAG%20AI-yellow)  
+  - Generative AI for content, automation, and developer productivity ![Generative AI](https://img.shields.io/badge/Research-Generative%20AI-red)
+  
 
 I’m passionate about **harnessing AI in software engineering** to go beyond traditional coding and unlock new development paradigms.  
 
